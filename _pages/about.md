@@ -20,6 +20,8 @@ My research interests include causal machine learning (theory, inference, discov
 
 ## Publications
 
-- Xiao, X., Alharbi, K., Zhang, P. et al. (2025). *Bayesian federated causal inference and its application in manufacturing*. **Journal of Intelligent Manufacturing** ([link](https://link.springer.com/article/10.1007/s10845-025-02665-7))
+- **Xiaofeng Xiao**, Khawlah Alharbi, Pengyu Zhang, Hantang Qin, Xubo Yue (2025). *Bayesian federated causal inference and its application in manufacturing*. **Journal of Intelligent Manufacturing** ([link](https://link.springer.com/article/10.1007/s10845-025-02665-7))
 
-- Xiao, X., Shen, B., & Yue, X. (2025). *Causality-informed Anomaly Detection in Partially Observable Sensor Networks: Moving beyond Correlations*. **arXiv preprint** arXiv:2507.09742 ([link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dBEB9RoAAAAJ&citation_for_view=dBEB9RoAAAAJ:u-x6o8ySG0sC))
+- **Xiaofeng Xiao**, Bo Shen, Xubo Yue (2025). *Causality-informed Anomaly Detection in Partially Observable Sensor Networks: Moving beyond Correlations*. **arXiv preprint** arXiv:2507.09742 ([link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dBEB9RoAAAAJ&citation_for_view=dBEB9RoAAAAJ:u-x6o8ySG0sC))
+
+
