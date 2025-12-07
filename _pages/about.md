@@ -25,3 +25,8 @@ My research interests include causal machine learning (theory, inference, discov
 - **Xiaofeng Xiao**, Bo Shen, Xubo Yue (2025). *Causality-informed Anomaly Detection in Partially Observable Sensor Networks: Moving beyond Correlations*. **arXiv preprint** arXiv:2507.09742 ([link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dBEB9RoAAAAJ&citation_for_view=dBEB9RoAAAAJ:u-x6o8ySG0sC))
 
 
+## Awards
+
+- **2025 John and Katharine Cipolla Graduate Merit Award**  
+
+
