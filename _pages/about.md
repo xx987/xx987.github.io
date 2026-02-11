@@ -24,7 +24,7 @@ My research interests include causal machine learning (theory, inference, discov
 
 - **Xiaofeng Xiao**, Bo Shen, Xubo Yue (2025). *Causality-informed Anomaly Detection in Partially Observable Sensor Networks: Moving beyond Correlations*. **arXiv preprint** arXiv:2507.09742 ([link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dBEB9RoAAAAJ&citation_for_view=dBEB9RoAAAAJ:u-x6o8ySG0sC))
 
-- - **Xiaofeng Xiao**, Xiao Hu, Yang Ye, Xubo Yue (2026). *CausalGDP: Causality-Guided Diffusion Policies for Reinforcement Learning*. **arXiv preprint** arXiv:2602.09207 ([link](https://arxiv.org/abs/2602.09207))
+- **Xiaofeng Xiao**, Xiao Hu, Yang Ye, Xubo Yue (2026). *CausalGDP: Causality-Guided Diffusion Policies for Reinforcement Learning*. **arXiv preprint** arXiv:2602.09207 ([link](https://arxiv.org/abs/2602.09207))
 
 
 
