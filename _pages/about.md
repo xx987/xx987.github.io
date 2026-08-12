@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year Ph.D. student in **Mechanical and Industrial Engineering at Northeastern University**, advised by [Professor Xubo Yue](https://sites.google.com/a/umich.edu/maxyxb/). I received my Bachelor's degree in **Mathematics from the Courant Institute of Mathematical Sciences, New York University**, where I was advised by [Professor Olivier Pauluis](https://wp.nyu.edu/opauluis/). I obtained my Master’s degree in **Applied Mathematics from Northwestern University**, advised by [Professor Wenxin Jiang](https://faculty.wcas.northwestern.edu/wji047/).
+I am currently a Ph.D. student in **Mechanical and Industrial Engineering at Northeastern University**, advised by [Professor Xubo Yue](https://sites.google.com/a/umich.edu/maxyxb/). I received my Bachelor's degree in **Mathematics from the Courant Institute of Mathematical Sciences, New York University**, where I was advised by [Professor Olivier Pauluis](https://wp.nyu.edu/opauluis/). I obtained my Master’s degree in **Applied Mathematics from Northwestern University**, advised by [Professor Wenxin Jiang](https://faculty.wcas.northwestern.edu/wji047/).
 
 ## Research Interests
 
