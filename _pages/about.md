@@ -11,7 +11,7 @@ I am currently a Ph.D. student in **Mechanical and Industrial Engineering at Nor
 
 ## Research Interests
 
-My research focuses on statistical machine learning, especially causal learning, and reinforcement learning for intelligent decision-making.
+My research focuses on statistical machine learning, particularly generative modeling, causal learning, and reinforcement learning. I develop methods for reliable and intelligent decision-making.
 
 ## Talks
 
